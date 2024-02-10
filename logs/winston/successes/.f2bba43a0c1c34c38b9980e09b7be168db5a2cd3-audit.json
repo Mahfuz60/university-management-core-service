@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\Programming Hero Next Level 2.0\\university-management-core-service\\logs\\winston\\successes\\.f2bba43a0c1c34c38b9980e09b7be168db5a2cd3-audit.json",
+    "files": [
+        {
+            "date": 1706337569603,
+            "name": "E:\\Programming Hero Next Level 2.0\\university-management-core-service\\logs\\winston\\successes\\phu-2024-27-01-12-success.log",
+            "hash": "ff8412ad899293deec3473ef5bf8fb474501d58cdbb56a7ebd18b9ce6bb83400"
+        },
+        {
+            "date": 1706418810101,
+            "name": "E:\\Programming Hero Next Level 2.0\\university-management-core-service\\logs\\winston\\successes\\phu-2024-28-01-11-success.log",
+            "hash": "84f44fbf0ff636bb533b8134009e8dbd5471c68753bb2e6962784d1528ac9b63"
+        },
+        {
+            "date": 1706937478868,
+            "name": "E:\\Programming Hero Next Level 2.0\\university-management-core-service\\logs\\winston\\successes\\phu-2024-03-02-11-success.log",
+            "hash": "85b56af707f3a1260566110d05daacde5bae14853b241de9be7571e2c2d77272"
+        },
+        {
+            "date": 1707033324375,
+            "name": "E:\\Programming Hero Next Level 2.0\\university-management-core-service\\logs\\winston\\successes\\phu-2024-04-02-13-success.log",
+            "hash": "1e11f28585573ab76e9e5abd49566f8477cdba7a9b6d0114063db0b60d4b0941"
+        },
+        {
+            "date": 1707047453844,
+            "name": "E:\\Programming Hero Next Level 2.0\\university-management-core-service\\logs\\winston\\successes\\phu-2024-04-02-17-success.log",
+            "hash": "fe1e00be550db1738f7aed13761fb4080eed54f8a15a7e69a146640bc747acf9"
+        },
+        {
+            "date": 1707048740294,
+            "name": "E:\\Programming Hero Next Level 2.0\\university-management-core-service\\logs\\winston\\successes\\phu-2024-04-02-18-success.log",
+            "hash": "5f187512070c89be244ca7d604e728142123f67347622da2d0d274730954b74a"
+        }
+    ],
+    "hashType": "sha256"
+}
