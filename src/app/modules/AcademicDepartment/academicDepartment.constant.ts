@@ -4,4 +4,10 @@ export const academicDepartmentSearchableField: string[] = [
   'academicFacultyId',
 ];
 
-export const academicDepartmentFilterAbleField: string[] = ['title'];
+export const AcademicDepartmentFilterAbleField: string[] = ['title'];
+export const AcademicDepartmentOptionFiled = [
+  'limit',
+  'page',
+  'sortby',
+  'sortOrder',
+];
